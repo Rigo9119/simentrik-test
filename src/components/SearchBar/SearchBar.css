@@ -1,0 +1,15 @@
+.searchBar {
+    align-items: center;
+    display: flex;
+    flex-flow: row nowrap; 
+    justify-content: space-around;
+    width: 20%;
+}
+
+.searchBar__field {
+    border: none;
+    border-bottom: 1px solid cadetblue;
+    overflow: hidden;
+    outline: none;
+}
+
